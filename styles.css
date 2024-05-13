@@ -1,9 +1,14 @@
 
 /* Your CSS Code here. */
 .holder{
+display:flex;
 	flex-direction:row;
-}
-.item{
+	
+
 		justify-content:space-evenly;
 
+
+
 }
+
+
