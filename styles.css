@@ -2,5 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	flex-direction:row;
-	justify-content:space-evenly;
+}
+.item{
+		justify-content:space-evenly;
+
 }
